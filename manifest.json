@@ -1,0 +1,13 @@
+
+{
+    "manifest_version": 2,
+    "name": "Quotable",
+    "version": "1.0",
+    "description": "Quotable quote extension",
+    "permissions": ["storage", "activeTab"],
+    "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+    }
+  }
+  
